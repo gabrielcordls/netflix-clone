@@ -13,6 +13,17 @@ The project was recreated in the [HTML Web Developer](https://web.digitalinnovat
 
 ![movie carousel photo](https://github.com/gabrielcordls/netflix-clone/blob/master/img/screenshots/Carrossel%20de%20Filmes.png)
 
+## Project demonstration
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![Mobile demonstration view gif](https://github.com/gabrielcordls/netflix-clone/blob/master/img/screenshots/gif-clone.gif)
+
 ## Tablet view
 
-![Tablet view photo](https://github.com/gabrielcordls/netflix-clone/blob/master/img/screenshots/Tela%20Principal%20Tablet.png)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![Tablet view photo](https://github.com/gabrielcordls/netflix-clone/blob/master/img/screenshots/Tela%20Principal%20Tablet.png)
+
+## Mobile view
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![Mobile view photo](https://github.com/gabrielcordls/netflix-clone/blob/master/img/screenshots/Tela%20Principal%20Mobile.png) 
+
+
+
