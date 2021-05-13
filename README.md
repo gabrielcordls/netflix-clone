@@ -19,7 +19,7 @@ The project was recreated in the [HTML Web Developer](https://web.digitalinnovat
 
 ## Tablet view
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![Tablet view photo](https://github.com/gabrielcordls/netflix-clone/blob/master/img/screenshots/Tela%20Principal%20Tablet.png)
+⠀⠀![Tablet view photo](https://github.com/gabrielcordls/netflix-clone/blob/master/img/screenshots/Tela%20Principal%20Tablet.png)
 
 ## Mobile view
 
